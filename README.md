@@ -15,14 +15,14 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img width="230" height="1744" alt="Image" src="https://github.com/user-attachments/assets/fd52d7d5-2fcb-43eb-a3be-982cfc25a2fb" />
-<img width="230" height="1744" alt="Image" src="https://github.com/user-attachments/assets/0bb2a51a-7a9b-48a0-a4b7-8974276643a0" />
-<img width="230" height="1744" alt="Image" src="https://github.com/user-attachments/assets/81efdd92-6f1a-4ee8-9897-027394fe1667" />
-<img width="230" height="1743" alt="Image" src="https://github.com/user-attachments/assets/e3f94701-3498-40bb-a410-383d33c2f05d" />
-<img width="230" height="1743" alt="Image" src="https://github.com/user-attachments/assets/c33019f1-d2bf-40c1-9e89-8e744f33aa6c" />
-<img width="230" height="1744" alt="Image" src="https://github.com/user-attachments/assets/d09d795d-296b-44c1-b17f-0f5885773193" />
-<img width="230" height="1741" alt="Image" src="https://github.com/user-attachments/assets/e77ac702-2cb9-4369-8e50-279e928fdaed" />
-<img width="230" height="1744" alt="Image" src="https://github.com/user-attachments/assets/aca14e33-37ba-4561-b88d-65aa50766861" />
+<img width="220" height="1744" alt="Image" src="https://github.com/user-attachments/assets/fd52d7d5-2fcb-43eb-a3be-982cfc25a2fb" />
+<img width="220" height="1744" alt="Image" src="https://github.com/user-attachments/assets/0bb2a51a-7a9b-48a0-a4b7-8974276643a0" />
+<img width="220" height="1744" alt="Image" src="https://github.com/user-attachments/assets/81efdd92-6f1a-4ee8-9897-027394fe1667" />
+<img width="220" height="1743" alt="Image" src="https://github.com/user-attachments/assets/e3f94701-3498-40bb-a410-383d33c2f05d" />
+<img width="220" height="1743" alt="Image" src="https://github.com/user-attachments/assets/c33019f1-d2bf-40c1-9e89-8e744f33aa6c" />
+<img width="220" height="1744" alt="Image" src="https://github.com/user-attachments/assets/d09d795d-296b-44c1-b17f-0f5885773193" />
+<img width="220" height="1741" alt="Image" src="https://github.com/user-attachments/assets/e77ac702-2cb9-4369-8e50-279e928fdaed" />
+<img width="220" height="1744" alt="Image" src="https://github.com/user-attachments/assets/aca14e33-37ba-4561-b88d-65aa50766861" />
 
 
 
