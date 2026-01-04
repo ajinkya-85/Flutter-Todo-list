@@ -6,7 +6,7 @@ A clean and efficient Todo List application built with Flutter to help you manag
 
 Try out the app on your Android device:
 
-[**Download APK**](https://drive.google.com/file/d/1Aqt_7y_5Ya5kaEzNdai_92KwexCcsu3q/view?usp=sharing)
+**Download APK** : https://drive.google.com/file/d/1Aqt_7y_5Ya5kaEzNdai_92KwexCcsu3q/view?usp=sharing
 
 ## ✨ Features
 
@@ -16,8 +16,6 @@ Try out the app on your Android device:
 - **Responsive UI**: Clean interface that works well on different screen sizes.
 
 ## 📱 Screenshots
-
-    Light Theme :
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fd52d7d5-2fcb-43eb-a3be-982cfc25a2fb" width="200" />
@@ -33,7 +31,6 @@ Try out the app on your Android device:
   <img src="https://github.com/user-attachments/assets/aca14e33-37ba-4561-b88d-65aa50766861" width="200" />
 </div>
 <br>
-    Dark Theme :
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8bb376a4-3c87-4adc-86a2-edb61aa3a863" width="200" />
   <img src="https://github.com/user-attachments/assets/3cee28fc-c41b-4765-96cc-75d8fada8a3b" width="200" />
