@@ -17,6 +17,8 @@ Try out the app on your Android device:
 
 ## 📱 Screenshots
 
+    Light Theme :
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fd52d7d5-2fcb-43eb-a3be-982cfc25a2fb" width="200" />
   <img src="https://github.com/user-attachments/assets/0bb2a51a-7a9b-48a0-a4b7-8974276643a0" width="200" />
@@ -31,6 +33,7 @@ Try out the app on your Android device:
   <img src="https://github.com/user-attachments/assets/aca14e33-37ba-4561-b88d-65aa50766861" width="200" />
 </div>
 <br>
+    Dark Theme :
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8bb376a4-3c87-4adc-86a2-edb61aa3a863" width="200" />
   <img src="https://github.com/user-attachments/assets/3cee28fc-c41b-4765-96cc-75d8fada8a3b" width="200" />
