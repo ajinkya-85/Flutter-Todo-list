@@ -1,21 +1,21 @@
-# Todo List App 📝
+# Todo List App 
 
 A clean and efficient Todo List application built with Flutter to help you manage your daily tasks effectively. This project demonstrates the use of Flutter widgets, state management, and responsive design.
 
-## 📥 Download
+## Download
 
 Try out the app on your Android device:
 
 **Download APK** : https://drive.google.com/file/d/1Aqt_7y_5Ya5kaEzNdai_92KwexCcsu3q/view?usp=sharing
 
-## ✨ Features
+## Features
 
 - **Add Tasks**: Easily add new tasks to your list.
 - **Mark as Done**: Check off tasks as you complete them.
 - **Delete Tasks**: Remove tasks you no longer need.
 - **Responsive UI**: Clean interface that works well on different screen sizes.
 
-## 📱 Screenshots
+## Screenshots
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fd52d7d5-2fcb-43eb-a3be-982cfc25a2fb" width="200" />
@@ -44,7 +44,7 @@ Try out the app on your Android device:
   <img src="https://github.com/user-attachments/assets/9637b865-824b-4d66-904e-113aac7deaa2" width="200" />
 </div>
 
-## 🌳 Widget Tree
+## Widget Tree
 
 Here is a high-level overview of the widget structure used in this application:
 
