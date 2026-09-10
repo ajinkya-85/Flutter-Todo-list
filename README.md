@@ -6,7 +6,8 @@ A clean and efficient Todo List application built with Flutter to help you manag
 
 Try out the app on your Android device:
 
-**Download APK** : https://drive.google.com/file/d/1Aqt_7y_5Ya5kaEzNdai_92KwexCcsu3q/view?usp=sharing
+[![Download APK](https://img.shields.io/badge/Download-Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ajinkya-85/Flutter-Todo-list/releases/latest)
+
 
 ## Features
 
