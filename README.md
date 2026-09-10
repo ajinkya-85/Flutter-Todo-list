@@ -83,8 +83,6 @@ MyApp
                      └── Icon(add)
 ```
 
----
-
 ## Tech Stack
 
 | Technology | Description |
@@ -94,7 +92,6 @@ MyApp
 | Material Design | UI Components |
 | Android | Deployment Platform |
 
----
 
 ## Getting Started
 
@@ -104,8 +101,6 @@ MyApp
 - Dart SDK
 - Android Studio or VS Code
 - Android Emulator or Physical Device
-
----
 
 ## Installation
 
@@ -133,8 +128,6 @@ Run the application.
 flutter run
 ```
 
----
-
 ## Folder Overview
 
 | Folder | Purpose |
@@ -146,7 +139,6 @@ flutter run
 | web/ | Web configuration |
 | test/ | Unit and widget tests |
 
----
 
 ## Application Flow
 
@@ -171,19 +163,13 @@ View Todo List
 
 ## Author
 
-**Ajinkya Ghode**
-
 GitHub: https://github.com/ajinkya-85
 
----
 
 ## Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 
-It motivates further development and helps others discover the project.
-
----
 
 <div align="center">
 
