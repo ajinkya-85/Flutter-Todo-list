@@ -170,11 +170,3 @@ GitHub: https://github.com/ajinkya-85
 ## Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
-
-
-<div align="center">
-
-Made with 🖤 using Flutter
-
-</div>
-
