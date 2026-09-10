@@ -44,6 +44,24 @@ Try out the app on your Android device:
   <img src="https://github.com/user-attachments/assets/9637b865-824b-4d66-904e-113aac7deaa2" width="200" />
 </div>
 
+## Project Structure
+
+```text
+lib/
+│
+├── main.dart
+├── models/
+├── screens/
+├── widgets/
+├── services/
+├── utils/
+└── constants/
+
+assets/
+├── images/
+└── fonts/
+```
+
 ## Widget Tree
 
 Here is a high-level overview of the widget structure used in this application:
@@ -64,3 +82,112 @@ MyApp
                 └── FloatingActionButton
                      └── Icon(add)
 ```
+
+---
+
+## Tech Stack
+
+| Technology | Description |
+|------------|-------------|
+| Flutter | Cross-platform UI Toolkit |
+| Dart | Programming Language |
+| Material Design | UI Components |
+| Android | Deployment Platform |
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Flutter SDK (Latest Stable)
+- Dart SDK
+- Android Studio or VS Code
+- Android Emulator or Physical Device
+
+---
+
+## Installation
+
+Clone the repository.
+
+```bash
+git clone https://github.com/ajinkya-85/Flutter-Todo-list.git
+```
+
+Navigate into the project.
+
+```bash
+cd Flutter-Todo-list
+```
+
+Install dependencies.
+
+```bash
+flutter pub get
+```
+
+Run the application.
+
+```bash
+flutter run
+```
+
+---
+
+## Folder Overview
+
+| Folder | Purpose |
+|---------|----------|
+| lib/ | Application source code |
+| assets/ | Images, fonts and other assets |
+| android/ | Android-specific configuration |
+| ios/ | iOS-specific configuration |
+| web/ | Web configuration |
+| test/ | Unit and widget tests |
+
+---
+
+## Application Flow
+
+```text
+Launch App
+      │
+      ▼
+View Todo List
+      │
+      ├────────────┐
+      ▼            ▼
+ Add Task      Select Task
+      │            │
+      ▼            ▼
+ Save Task    Edit/Delete/Complete
+      │            │
+      └────────────┘
+             │
+             ▼
+ Updated Todo List
+```
+
+## Author
+
+**Ajinkya Ghode**
+
+GitHub: https://github.com/ajinkya-85
+
+---
+
+## Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
+
+It motivates further development and helps others discover the project.
+
+---
+
+<div align="center">
+
+Made with 🖤 using Flutter
+
+</div>
+
